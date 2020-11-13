@@ -11,13 +11,15 @@
  c) Only a few part in FRCNN ASLL.ipynb, FRCNN BCCD.ipynb
  
 3) 
-  Truck.ipynb: found from https://cocodataset.org/#home, it is just a picture.
+  Truck.ipynb: it is just a picture.
+  https://cocodataset.org/#home
+  https://farm4.staticflickr.com/3761/9519667890_7e775d0a16_z.jpg
   
   FRCNN balloon.ipynb, MRCNN balloon.ipynb: balloon dataset with 255 images in train file with a Json file.
   https://github.com/matterport/Mask_RCNN/tree/master/samples/balloon
   
   FRCNN ASLL.ipynb: dataset with 1500 images in train file with a Json file.
-  https://roboflow.com/
+  https://public.roboflow.com/object-detection/american-sign-language-letters
   
   FRCNN BCCD.ipynb: dataset with 255 images in train file with a Json file.
-  https://roboflow.com/
+  https://public.roboflow.com/object-detection/bccd
