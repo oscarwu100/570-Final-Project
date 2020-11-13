@@ -12,7 +12,12 @@
  
 3) 
   Truck.ipynb: found from https://cocodataset.org/#home, it is just a picture.
-  FRCNN balloon.ipynb, MRCNN balloon.ipynb: balloon dataset with 255 images in train file with jason file.
+  
+  FRCNN balloon.ipynb, MRCNN balloon.ipynb: balloon dataset with 255 images in train file with a Json file.
   https://github.com/matterport/Mask_RCNN/tree/master/samples/balloon
-  FRCNN ASLL.ipynb, FRCNN BCCD.ipynb: 
+  
+  FRCNN ASLL.ipynb: dataset with 1500 images in train file with a Json file.
+  https://roboflow.com/
+  
+  FRCNN BCCD.ipynb: dataset with 255 images in train file with a Json file.
   https://roboflow.com/
